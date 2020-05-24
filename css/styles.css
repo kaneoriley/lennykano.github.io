@@ -4153,7 +4153,7 @@ a.close.disabled {
 .modal-dialog {
   position: relative;
   width: auto;
-  margin: 0.5rem;
+  margin: 4rem 1rem 2rem;
   pointer-events: none; }
   .modal.fade .modal-dialog {
     transition: transform 0.3s ease-out;
@@ -4240,7 +4240,7 @@ a.close.disabled {
 .modal-body {
   position: relative;
   flex: 1 1 auto;
-  padding: 4rem 1rem; }
+  padding: 4rem 1rem 2rem; }
 
 .modal-footer {
   display: flex;
@@ -4264,7 +4264,7 @@ a.close.disabled {
 @media (min-width: 576px) {
   .modal-dialog {
     max-width: 500px;
-    margin: 1.75rem auto; }
+    margin: 6rem auto; }
   .modal-dialog-scrollable {
     max-height: calc(100% - 3.5rem); }
     .modal-dialog-scrollable .modal-content {
@@ -7326,8 +7326,8 @@ h3 {
   z-index: 1;
   right: 1.5rem;
   top: 1rem;
-  font-size: 3rem;
-  line-height: 3rem;
+  font-size: 2rem;
+  line-height: 2rem;
   color: #1a89bc;
   opacity: 1; }
 
