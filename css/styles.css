@@ -7170,7 +7170,7 @@ h3 {
     border-color: #dee2e6; } }
 
 .page-section {
-  padding: 6rem 0; }
+  padding: 3rem 0; }
   .page-section .page-section-heading {
     font-size: 2.25rem;
     line-height: 2rem; }
@@ -7374,8 +7374,8 @@ form .row:first-child .floating-label-form-group {
   border-top: 1px solid #e9ecef; }
 
 .footer {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
   background-color: #2b3d4f;
   color: #fff; }
 
@@ -7386,9 +7386,8 @@ form .row:first-child .floating-label-form-group {
   height: 2rem; }
 
 .portfolio {
-  padding-top: 6rem;
-  padding-bottom: 4.5rem; }
-
+  padding-bottom: 2rem; }
+  
 .page-section-heading {
   display: inline-block; }
 
@@ -7414,3 +7413,8 @@ form .row:first-child .floating-label-form-group {
 
 .btn-social {
   margin-bottom: 0.5rem; }
+
+p {
+    margin: 0;
+    padding: 0;
+}
